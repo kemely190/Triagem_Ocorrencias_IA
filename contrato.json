@@ -1,0 +1,15 @@
+{
+    "entrada": {
+        "descricao": "string"
+    },
+    "saida": {
+        "natureza": "string",
+        "base_legal": "string",
+        "acao_recomendada": "string"
+    },
+    "tratamento_erros": {
+        "descricao_vazia": "Solicitar mais informações",
+        "classificacao_desconhecida": "Classificação inconclusiva",
+        "base_legal_nao_encontrada": "Necessária análise humana"
+    }
+}

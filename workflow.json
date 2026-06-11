@@ -1,0 +1,10 @@
+{
+    "workflow": [
+        "Receber descrição",
+        "Identificar palavras-chave",
+        "Classificar ocorrência",
+        "Consultar legislação",
+        "Consultar procedimentos",
+        "Gerar resposta"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "violencia_domestica": {
+        "procedimento": "Deslocamento imediato da equipe"
+    },
+    "furto": {
+        "procedimento": "Registrar ocorrência e coletar informações"
+    },
+    "perturbacao_do_sossego": {
+        "procedimento": "Verificar denúncia no local"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "violencia_domestica": {
+        "palavras_chave": [
+            "ameaça",
+            "agressão",
+            "medida protetiva",
+            "ex-companheiro"
+        ],
+        "natureza": "Descumprimento de Medida Protetiva",
+        "base_legal": "Art. 24-A da Lei Maria da Penha",
+        "acao": "Deslocamento imediato da equipe"
+    },
+    "furto": {
+        "palavras_chave": [
+            "furto",
+            "furtada",
+            "roubou",
+            "subtraiu"
+        ],
+        "natureza": "Furto",
+        "base_legal": "Art. 155 do Código Penal",
+        "acao": "Registrar ocorrência"
+    },
+    "perturbacao": {
+        "palavras_chave": [
+            "som alto",
+            "barulho",
+            "festa"
+        ],
+        "natureza": "Perturbação do Sossego",
+        "base_legal": "Legislação Municipal",
+        "acao": "Verificar denúncia"
+    }
+}
